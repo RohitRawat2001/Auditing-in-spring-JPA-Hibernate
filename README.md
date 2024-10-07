@@ -36,6 +36,7 @@ Here’s an example of a simple Spring Boot microservice that manages user accou
 
 3. Create an Entity: Define a User entity like this:
 
+
 ```java
 @Entity
 public class User {
