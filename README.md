@@ -7,7 +7,6 @@
 # -- Created By and Last Modified By:
       Automatically captures the user or system responsible for creating or modifying an entity.
 
-
 # How to Enable Auditing in Spring
 
 To enable auditing in your Spring application, follow these steps:
