@@ -323,6 +323,7 @@ For Gradle:
 implementation 'org.hibernate.orm:hibernate-envers'
 ```
 
+
 # 2. Enable Envers Auditing
 Once the dependency is added, Spring Boot automatically configures Hibernate Envers for your JPA entities. However, you need to annotate your entity to specify that you want to track revisions.
 
