@@ -73,7 +73,6 @@ public class SpringSecurityAuditorAware implements AuditorAware<String> {
     }
 }
 ```
-
 5. Create a Repository:
 
 ```java
