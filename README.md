@@ -60,7 +60,6 @@ public class User {
     // Getters and Setters
 }
 ```
-
 4. Implement AuditorAware:
 
 ```java
